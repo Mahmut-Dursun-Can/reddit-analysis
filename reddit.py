@@ -4,8 +4,8 @@ import os
 
 # Reddit API Bağlantısı
 reddit = praw.Reddit(
-    client_id='3Kf0PQIJ9gCntLJC_JWqGg',
-    client_secret='wnPik67csb1178Im_YPebNXgMj4uQQ',
+    client_id='',
+    client_secret='',
     user_agent='name'
 )
 
